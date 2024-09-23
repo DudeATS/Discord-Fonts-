@@ -42,13 +42,14 @@ Don't want to use markdown? You can slap a backslash in front of your statement,
 
 To create a header, you need to include a specific number of the hash/pound sign character (#). Use (#) for a big header, (##) for a smaller header, or (###) for an even smaller header as the first character(s) in a new line.
 
-![headers](https://i.imgur.com/9dhQ4SE.png)
+![image](https://github.com/user-attachments/assets/5d8c108e-ad9b-43ce-be46-92f79d13b23e)
 
 ### Subtext
 
 Like Headers, you can add subtext to any chat message. To do so, add a (-# ) before the text you want to appear in the subtext. Don’t forget the space after # and before your message.
 
-![subtext](https://i.imgur.com/ADFapDa.png)
+![image](https://github.com/user-attachments/assets/b7f5b9b9-79d0-4f72-876c-7061ba714434)
+
 
 ### Masked Links
 
